@@ -1,5 +1,4 @@
 # TecGemini
-Test assessment
 MySql database is used for the storage
 An HTML form- property.html- used to enter the property details
 process.php inserts the details into the db
